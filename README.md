@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="320">
+    <td width="320" style="border: none; padding: 0; >
       <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
            alt="Machine learning illustration"
            width="320" />
     </td>
-    <td>
+    <td style="border: none; padding: 0;>
 
 🔭 **I’m currently working as** a Machine Learning Engineer at Sainsbury’s, making ML-driven data pipelines and GenAI prototypes more production-ready than they were ever meant to be  
 
