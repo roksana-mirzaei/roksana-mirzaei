@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 🧪 This page is my fun coding space to explore ideas, break things, and occasionally discover something useful
 
 📫 How to reach me: 
-LinkedIn: https:[roksana-mirzaei](//www.linkedin.com/in/roksana-mirzaei/)
+LinkedIn: https:  [roksana-mirzaei](//www.linkedin.com/in/roksana-mirzaei/)
 
 Link to my CV: 
 
