@@ -14,27 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <!-- Left: Image -->
+    <td style="border: none; padding: 0; vertical-align: top; width: 320px;">
+      <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
+           alt="Machine learning illustration"
+           width="320"
+           style="border: none;" />
+    </td>
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-
-  <!-- Left: Image -->
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
-         alt="Machine learning illustration"
-         width="120"
-         style="display: block; border: none;" />
-  </div>
-
-  <!-- Right: Text -->
-  <div style="line-height: 1.5;">
+    <!-- Right: Text -->
+    <td style="border: none; padding-left: 20px; vertical-align: top;">
 🔭 **I’m currently working as** a Machine Learning Engineer at Sainsbury’s, making ML-driven data pipelines and GenAI prototypes more production-ready than they were ever meant to be  
 
 🧪 **This page is** my fun coding space to explore ideas, break things, and occasionally discover something useful  
 
 📫 **How to reach me:**  
 [LinkedIn](https://www.linkedin.com/in/roksana-mirzaei/) · 📄 [CV](./Roksana_Mirzaei_CV.pdf)  
-  </div>
+    </td>
+  </tr>
+</table>
 
-</div>
 
 
