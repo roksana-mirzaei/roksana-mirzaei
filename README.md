@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table style="border: none;">
-  <tr>
-    <td width="320" style="border: none;" >
-      <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
-           alt="Machine learning illustration"
-           width="320" />
-    </td>
-    <td style="border: none;">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
+  <div>
+    <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
+         alt="Machine learning illustration"
+         width="320" />
+  </div>
+
+  <div>
+    
 🔭 **I’m currently working as** a Machine Learning Engineer at Sainsbury’s, making ML-driven data pipelines and GenAI prototypes more production-ready than they were ever meant to be  
 🧪 **This page is** my fun coding space to explore ideas, break things, and occasionally discover something useful  
 
 📫 **How to reach me:**  
 [LinkedIn](https://www.linkedin.com/in/roksana-mirzaei/) · 📄 [CV](./Roksana_Mirzaei_CV.pdf)  
+  </div>
 
-</td>
-</table>
+</div>
 
