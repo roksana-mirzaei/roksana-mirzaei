@@ -14,24 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table style="border-collapse: collapse; border: none; width: 100%;">
+
+<table>
   <tr>
     <!-- Left: Image -->
-    <td style="border: none; padding: 0; vertical-align: top; width: 320px;">
-      <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
-           alt="Machine learning illustration"
-           width="320"
-           style="border: none;" />
+    <td>
+      <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png" width="320" alt="Machine learning illustration">
     </td>
 
     <!-- Right: Text -->
-    <td style="border: none; padding-left: 20px; vertical-align: top;">
-🔭 **I’m currently working as** a Machine Learning Engineer at Sainsbury’s, making ML-driven data pipelines and GenAI prototypes more production-ready than they were ever meant to be  
+    <td>
+      🔭 **I’m currently working as** a Machine Learning Engineer at Sainsbury’s, making ML-driven data pipelines and GenAI prototypes more production-ready than they were ever meant to be  
 
-🧪 **This page is** my fun coding space to explore ideas, break things, and occasionally discover something useful  
+      🌱 **I’m currently learning** diffusion / flow-matching models, LLM reasoning, agents, and why distributed systems fail at 3am  
 
-📫 **How to reach me:**  
-[LinkedIn](https://www.linkedin.com/in/roksana-mirzaei/) · 📄 [CV](./Roksana_Mirzaei_CV.pdf)  
+      👯 **I’m looking to collaborate on** agentic AI, diffusion models, autonomous systems, RAG/GraphRAG, and anything that turns research ideas into real systems  
+
+      💬 **Ask me about** MLOps, Airflow/dbt, LLM agents, diffusion models, or debugging “this should not happen” bugs  
+
+      🧪 **This page is** my fun coding space to explore ideas, break things, and occasionally discover something useful  
+
+      📫 **How to reach me:**  
+      [LinkedIn](https://www.linkedin.com/in/roksana-mirzaei/) · 📄 [CV](./Roksana_Mirzaei_CV.pdf)  
     </td>
   </tr>
 </table>
