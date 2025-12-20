@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border: none;">
   <tr>
-    <td width="320" style="border: none; padding: 0; >
+    <td width="320" style="border: none;" >
       <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
            alt="Machine learning illustration"
            width="320" />
     </td>
-    <td style="border: none; padding: 0;>
+    <td style="border: none;">
 
 🔭 **I’m currently working as** a Machine Learning Engineer at Sainsbury’s, making ML-driven data pipelines and GenAI prototypes more production-ready than they were ever meant to be  
 
