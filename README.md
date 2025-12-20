@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png" alt="Machine learning illustration" width="120" />
-## Hi, I'm Roksana 👋
+##Hi, I'm Roksana 👋
 
 🔭 **I’m currently working as** a Machine Learning Engineer at Sainsbury’s, making ML-driven data pipelines and GenAI prototypes more production-ready than they were ever meant to be  
 🧪 **This page is** my fun coding space to explore ideas, break things, and occasionally discover something useful  
