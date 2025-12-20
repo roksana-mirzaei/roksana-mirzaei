@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
+<table border="0">
   <tr>
-    <td width="120">
+    <td width="320">
       <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
            alt="Machine learning illustration"
-           width="120" />
+           width="320" />
     </td>
     <td>
 
