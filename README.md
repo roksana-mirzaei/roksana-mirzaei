@@ -17,15 +17,18 @@ Here are some ideas to get you started:
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
-  <div>
+  <!-- Left: Image -->
+  <div style="flex-shrink: 0;">
     <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
          alt="Machine learning illustration"
-         width="320" />
+         width="320"
+         style="display: block; border: none;" />
   </div>
 
-  <div>
-    
+  <!-- Right: Text -->
+  <div style="line-height: 1.5;">
 🔭 **I’m currently working as** a Machine Learning Engineer at Sainsbury’s, making ML-driven data pipelines and GenAI prototypes more production-ready than they were ever meant to be  
+
 🧪 **This page is** my fun coding space to explore ideas, break things, and occasionally discover something useful  
 
 📫 **How to reach me:**  
@@ -33,4 +36,5 @@ Here are some ideas to get you started:
   </div>
 
 </div>
+
 
