@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td width="320">
+    <td width="120">
       <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
            alt="Machine learning illustration"
-           width="300" />
+           width="120" />
     </td>
     <td>
 
@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 👯 **I’m looking to collaborate on** agentic AI, diffusion models, autonomous systems, RAG/GraphRAG, and anything that turns research ideas into real systems  
 
-🤔 **I’m looking for help with** staying opinionated *and* flexible when designing large ML systems  
-
 💬 **Ask me about** MLOps, Airflow/dbt, LLM agents, diffusion models, or debugging “this should not happen” bugs  
 
 🧪 **This page is** my fun coding space to explore ideas, break things, and occasionally discover something useful  
@@ -39,9 +37,6 @@ Here are some ideas to get you started:
 📫 **How to reach me:**  
 [LinkedIn](https://www.linkedin.com/in/roksana-mirzaei/) · 📄 [CV](./Roksana_Mirzaei_CV.pdf)  
 
-⚡ **Fun fact:** I love finding bugs no one else can find — especially the ones caused by a single wrong join
-
-    </td>
-  </tr>
+</td>
 </table>
 
