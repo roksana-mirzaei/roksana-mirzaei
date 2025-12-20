@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png" alt="Banner of a developer sitting in front of a desk">
+<p align="center">
+  <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png" alt="Banner of a developer sitting in front of a desk" width="400" />
+</p>
