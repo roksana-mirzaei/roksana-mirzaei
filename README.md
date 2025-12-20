@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td width="320">
       <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
