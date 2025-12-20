@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <div style="flex-shrink: 0;">
     <img src="https://github.com/roksana-mirzaei/roksana-mirzaei/blob/main/MachineLearning.png"
          alt="Machine learning illustration"
-         width="320"
+         width="120"
          style="display: block; border: none;" />
   </div>
 
